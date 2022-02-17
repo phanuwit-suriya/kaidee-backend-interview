@@ -1,0 +1,12 @@
+alembic==1.4.2
+asgi-lifespan==1.0.1
+fastapi==0.73.0
+databases[postgresql]==0.4.2
+httpx==0.22.0
+psycopg2-binary==2.9.3
+pydantic==1.9.0
+pytest==7.0.1
+pytest-asyncio==0.18.1
+requests==2.27.1
+SQLAlchemy==1.4.31
+uvicorn==0.17.4
